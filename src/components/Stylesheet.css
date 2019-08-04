@@ -1,0 +1,12 @@
+
+.inputBox{
+  border: 1px solid #000;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.textBox{
+  line-height: 1.5;
+  color: #000;
+  font-weight: 400;
+}
